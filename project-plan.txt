@@ -1,0 +1,6 @@
+Algorand Project Plan
+
+1. Learn Algorand basics
+2. Setup environment
+3. Build simple application
+4. Update repository regularly
